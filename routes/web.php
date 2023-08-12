@@ -14,7 +14,7 @@ use App\Http\Controllers\ClientController;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return redirect()->to('all/client');
 });
 
  // branch
