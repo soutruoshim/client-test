@@ -23,7 +23,8 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 ## About This Project
 
-<img src="https://raw.githubusercontent.com/soutruoshim/client-test/blob/main/screenshot/Screenshot%202023-08-12%20at%202.05.56%20PM.png">
+<img src="https://raw.githubusercontent.com/soutruoshim/client-test/screenshot/s1.png">
+<img src="https://raw.githubusercontent.com/soutruoshim/client-test/screenshot/s2.png">
 ## Laravel Sponsors
 
 We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
